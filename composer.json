@@ -1,0 +1,21 @@
+{
+    "name": "altohami/router",
+    "description": "Simple router",
+    "type": "library",
+    "require": {
+        "php": "^8.0.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Altohami\\Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed Altohami",
+            "email": "altohami360@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
